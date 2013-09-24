@@ -7,6 +7,7 @@ setup(
     description=u'Django app to run javascript unit tests',
     author='Entretenimento',
     author_email='entretenimento@corp.globo.com',
+    #não esqueçam de tirar a url interna da globo daqui
     url='http://ngit.globoi.com/django-jstest/django-jstest',
     version='0.1.1',
     packages=find_packages(),
